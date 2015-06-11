@@ -3,10 +3,8 @@
   "description": "Magento extension to force customer authentication in frontend",
   "homepage": "https://github.com/Rolf-Kaiser/magento-require-login",
   "type": "magento-module",
+  "license": "GPL2",
   "require": {
-     "magento-hackathon/magento-composer-installer": "*"
-  },
-  "extra": {
-    "magento-deploystrategy": "copy"
+    "magento-hackathon/magento-composer-installer": "*"
   }
 }
