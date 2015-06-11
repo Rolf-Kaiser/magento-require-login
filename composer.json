@@ -1,0 +1,5 @@
+{
+  "name": "flagbit/magento-require-login",
+  "description": "Magento extension to force customer authentication in frontend",
+  "homepage": "https://github.com/Rolf-Kaiser/magento-require-login"
+}
